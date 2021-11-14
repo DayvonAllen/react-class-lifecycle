@@ -4,5 +4,5 @@
 3. App Component's 'constructor' function gets called.
 4. State object is created and assigned to the 'this.state' property.
 5. React will execute all logic above the `render` method.
-6. React calls the components `render` method.
+6. React calls the component's `render` method.
 ---
